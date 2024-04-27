@@ -46,7 +46,15 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 
 
+https://github.com/ngviethoang/MindmapCopilot/assets/25498258/4c9e2d87-18d1-4df1-bfc6-f4549c59dfbd
+
+
+
 - Create mindmap by chatting with the Copilot
+
+
+
+https://github.com/ngviethoang/MindmapCopilot/assets/25498258/9dcb1af2-bf41-4e67-b08d-65dda0e66eaf
 
 
 
@@ -54,9 +62,15 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 
 
-- 
+https://github.com/ngviethoang/MindmapCopilot/assets/25498258/9d28c733-996a-46a7-a477-a756490595c9
+
+
 
 - The copilot auto suggests more content when you are editing each node
+
+
+
+https://github.com/ngviethoang/MindmapCopilot/assets/25498258/24585a73-b7d5-45f2-88d5-acddb081ba1d
 
 
 
