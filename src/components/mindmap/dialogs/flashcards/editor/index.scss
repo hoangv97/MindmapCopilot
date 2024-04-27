@@ -1,0 +1,7 @@
+.front-editor .ProseMirror .is-editor-empty:first-child::before {
+  content: 'Front';
+}
+
+.back-editor .ProseMirror .is-editor-empty:first-child::before {
+  content: 'Back';
+}
