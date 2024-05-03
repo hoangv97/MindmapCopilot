@@ -2,6 +2,8 @@
 
 Mindmap Copilot, powered by AI CopilotKit, simplifies your mindmap creation. Chat with your copilot to visualize and enrich your map with suggested notes for each node.
 
+To learn more about how this project works, you can read this blog post: https://dev.to/ngviethoang/integrate-copilot-feature-into-your-react-applications-using-copilotkit-2nga
+
 ## Features
 
 - **Interactive Visualization**: Adjust and add to your mindmap in real-time.
